@@ -40,7 +40,7 @@
 
 Progetto di gruppo sviluppato durante il master Full-Stack di Boolean: una **SPA in React** con interfaccia responsive in Bootstrap, collegata a un back-end **Node.js / Express** con **REST API** e a un database **MySQL**.
 
-https://github.com/user-attachments/assets/8ef3d280-7246-4731-b1fe-0bdf54238f05
+[https://github.com/user-attachments/assets/8ef3d280-7246-4731-b1fe-0bdf54238f05](https://github.com/user-attachments/assets/b620d852-3bd0-4c92-a251-32f02be9288d)
 
 **Funzionalità principali**
 - 🔎 Catalogo con ricerca per titolo e filtri per nome, prezzo e sconto
